@@ -2,7 +2,7 @@
 
 💡   Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML, CSS ,JS, Bootstrap y Sass<br>
 ℹ Front-End G17 - Desafío Latam<br>
-🔗 Desplegado en GitHub Pages [aquí](https://cristiandpto23.github.io/desafio-clases-en-es6/)<br>
+🔗 Desplegado en GitHub Pages [aquí](https://cristiandpto23.github.io/desafio-datos-de-usuario/)<br>
 ## Introducción
 
 _En este desafío validaremos nuestros conocimientos de Async/Await en JavaScript, Manejo de errores y Patrón de módulo._
